@@ -13,7 +13,7 @@
 ## 1.下载
 克隆完整项目
 ```git
-git clone https://github.com/cs001020/hmdp.git
+https://github.com/wangsr-w/study_hmdp.git
 ```
 切换分支
 ```git
