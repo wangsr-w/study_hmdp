@@ -15,7 +15,7 @@
 ```git
 https://github.com/wangsr-w/study_hmdp.git
 ```
-切换分支
+切换分支(暂时为上传源文件)
 ```git
 git checkout init
 ```
